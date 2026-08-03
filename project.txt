@@ -3,3 +3,4 @@ Version 1.0
 This change was added via a Pull Request.
 This project demonsterated the GitHub Pull Request workflow.
 This change wa added for code review.
+It provides additional context for future contributors reviewing this project.
